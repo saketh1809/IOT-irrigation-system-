@@ -1,5 +1,9 @@
 # IOT-irrigation-system
 
+**ABOUT THE PROJECT:**
+
+A simple IoT based project where the soil moisture data is presented on Thingspeak website and simultaneously when the soil moisture is dry the water pump activates.
+
 **ERRORS OCCURED:**
   1.  A fatal error occurred: Failed to connect to ESP32: Wrong boot mode detected (0x13)! The chip needs to be in download mode.
       For troubleshooting steps visit: https://docs.espressif.com/projects/esptool/en/latest/troubleshooting.html
