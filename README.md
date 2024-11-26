@@ -12,6 +12,7 @@ SOLUTION:
     Click the Upload button in the Arduino IDE.
     Release the BOOT button once the upload starts.
 
+**________________________________________________________________________________________________________**
 **OUTPUT:**
 
 Attempting to connect
@@ -23,7 +24,11 @@ The soil moisture is WET => deactivate the pump (66%)
 Channel update successful.
 
 The soil moisture is WET => deactivate the pump (65%)
+
 Channel update successful.
+
 The soil moisture is DRY => activate pump (0%)
+
 Channel update successful.
+
 The soil moisture is WET => deactivate the pump (62%)
