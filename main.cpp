@@ -8,7 +8,7 @@ const int sensor_pin = 34;  /* Soil moisture sensor O/P pin */
 const char* ssid = "REPLACE_WITH_YOUR_SSID";   // your network SSID (name) 
 const char* password = "REPLACE_WITH_YOUR_PASSWORD";   // your network password
 
-unsigned long myChannelNumber = X;
+unsigned long myChannelNumber = X; //number of channels used
 const char * myWriteAPIKey = "XXXXXXXXXXXXXXXX";
 
 // Timer variables
